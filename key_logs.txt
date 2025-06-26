@@ -1,0 +1,8 @@
+#####################Advanced Keylogger#####################
+
+Appname: pythonw.exe	Time:03:02:40
+'c''d''c''d''c'
+Appname: Notepad.exe	Time:03:02:57
+Key.backspace
+Appname: mintty.exe	Time:03:03:08
+'g''i''t'Key.space'a''d''d'Key.space'.'Key.enter

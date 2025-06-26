@@ -1,0 +1,4 @@
+pywin32
+pynput
+psutil
+fire
