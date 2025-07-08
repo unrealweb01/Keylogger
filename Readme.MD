@@ -22,5 +22,7 @@ py cli.py --persistent=off
 ```bash
 py cli.py --display=hide --persistent=on
 ```
+### Video (Demo):
+https://github.com/user-attachments/assets/218f3d03-388c-4e01-a0d2-f1fee2650e01
 
 
