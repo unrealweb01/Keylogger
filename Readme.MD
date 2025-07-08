@@ -16,7 +16,7 @@ py cli.py --display=hide
 ```
 ### For Persistent Mode:( Automatically run at every logon by the user)
 ```bash
-py cli.py --persistent=hide
+py cli.py --persistent=off
 ```
 ### Combined Mode:
 ```bash
